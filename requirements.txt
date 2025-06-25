@@ -1,0 +1,8 @@
+dash
+dash-auth
+plotly
+pandas
+numpy
+tensorflow
+scikit-learn
+yfinance
